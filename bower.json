@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-bower-iligj",
+  "version": "0.0.0",
+  "authors": [
+    "ligj <cn_ilovethisgame@sina.com>"
+  ],
+  "description": "test",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "test",
+    "nodejs",
+    "bower"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/iligj/nodejs-bower-iligj",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.6",
+    "bootstrap": "~3.3.5"
+  }
+}
